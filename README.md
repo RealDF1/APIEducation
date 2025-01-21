@@ -12,6 +12,7 @@
 - putUsers()
 - deleteUsers()
 - requestUsers()
+  
 Атрибуты класса Users
 - $users
 
